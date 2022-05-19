@@ -1,0 +1,85 @@
+body{
+    background-color:blue;
+}
+.font{
+    height: 700px;
+    background: url('dossier nour/bus image.jpg') no-repeat;
+    background-size: cover;
+}
+li{
+     position: relative;
+     display: contents;
+     margin-top: -10%;
+    color: black;
+ }    
+a{
+    text-decoration: none;
+    padding-right: 40px;
+   
+
+    
+}
+.entete{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -10px;
+   
+}
+.logo1{
+    background-color: #fff;
+}
+ul a{
+    position: relative;
+    
+}
+h1{
+   margin-left: 40%;
+   margin-top: -50%;
+   position: absolute;
+   color: darkgoldenrod;
+}
+h2{
+    position:absolute;
+    margin-left: 40%;
+    margin-top: -35%;
+    color:#fff;
+}
+#continuer{
+    margin-left: 40%;
+    position: absolute;
+    background-color:  blue; 
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+    margin-top: 44%;
+}
+.liste1{
+    background: white;
+    height: 60px;
+    margin-top: 15px;
+    margin-right: 23%;
+    width: 50%;
+    text-transform: uppercase;
+}
+#continue{
+    margin-left: 40%;
+    position: absolute;
+    background-color: gold; 
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+    margin-top: -80px;
+}
+#logo2{
+    position: absolute;
+}
+.liste2{
+    background: white;
+    position: absolute;
+    height: 60px;
+    margin-top:20px;
+    width: 50%;
+    text-transform: uppercase;
+    position: absolute;
+    margin-left: 25%;
+}
