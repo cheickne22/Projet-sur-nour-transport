@@ -5,7 +5,7 @@ nav ul li{
     margin-right: 90px;
     float: right;
     margin-top: -30px;
-    width: 100%;
+    width: 90%;
     height: 60px;
     font-size: 25px;
     
@@ -26,10 +26,10 @@ nav ul li{
    
    
 }
-.nour{
-    width: 50%;
-  padding-top: 2%;
-  text-align: left;
+.img{
+    width: 200%;
+  margin-bottom: 1px;
+  margin-top: 10px;
 
  
 }
@@ -39,7 +39,6 @@ nav ul li{
 .pictures{
     margin-top: 250px;
     padding-top: -200px;
-    
     display: flow-root;
     width: 50%;
     height: 50%;
@@ -65,21 +64,21 @@ nav ul li{
 
 }
 .plane li{
-  
   display: inline-block;
 margin: px;
-text-align: justify;
 font-size: 20px;
-justify-content: space-between;
-padding: 30px;
-margin-top: -30px;
-margin-left:100px;
+padding: 20px;
+margin-top: -1%;
+margin-left:90px;
+
+
+
     
 }.bloc2{
     color: white;
     background-color: blue;
-   height: 40px;
-   margin-top: 90px; 
+   height: 20px;
+   margin-top: 40px; 
    padding: 20px;
 }
 .ad{
@@ -117,74 +116,13 @@ margin-left:100px;
     display: flex;
 
 }
-#pai{
-    font-size: 20px;
+.formulaire{
     position: absolute;
-    margin-top: 30px;
-}
-#actu{
-    position:absolute;
-    margin-left:30%;
-    margin-top: 30px;
-    font-size: 20px;
-}
-#conf{
-    position: absolute;
-    margin-left: 80%;
-    font-size: 20px;
-
-}
-.pic{
-    position: absolute;
-}
-#tomb{
-    position: absolute;
-    width: 130px;
-    height: 112px;
-    left: 508px;
-    margin-top: 150px;
-}
-#mopt{
-    position: absolute;
-    width: 130px;
-    height: 112px;
-    left: 508px;
-    margin-top: 360px;
-
-}
-#axe{
-    position: relative;
-    margin-left: 660px;
-    margin-top: 20%;
-    color: #EFAD10;
-}#axe2{
-    position: relative;
-    margin-left: 660px;
-    margin-top: 210px;
-    color: #EFAD10;   
-}#oran{
-    position: absolute;
-    margin-top: 140px;
-}#condi{
-    
-    margin-left: 140% ;
-    color: #EFAD10;
-    margin-top:-40%;
-    position: relative;
-    width: 50%;
-    font-size: 20px;
-}
-#cook{
-    margin-left: 140%;
-    width: 50%;
-    color: #EFAD10;
-    font-size: 20px;
-
-}
-.jone{
-    width: 150%;
-    height: 150px;
-    background-color: #EFAD10;
-    margin-top: 30%;
-    padding: 20px;
+    background-color:rgb(238, 255, 0);
+    width: 400px;
+    height: 250px;
+     margin-left: 80%;
+     font-size: large;
+     width: 200px;
+     margin-top: 50px;
 }
