@@ -1,85 +1,257 @@
-body{
-    background-color:blue;
-}
-.font{
-    height: 700px;
-    background: url('dossier nour/bus image.jpg') no-repeat;
-    background-size: cover;
-}
-li{
-     position: relative;
-     display: contents;
-     margin-top: -10%;
+nav ul li{
+    display: inline-block;
     color: black;
- }    
-a{
-    text-decoration: none;
-    padding-right: 40px;
-   
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    font-size: large;
+    
+}
+#accueil{
+    text-align: end;
+    background-color: rgb(239, 201, 114);
+    margin-left: 650px;  
+      
+}
+.img{
+    margin-top:-80px;
+}
+.btp{
+    text-align: start ;
+    margin-left: 150px;
+    margin-bottom: -310px;
 
-    
 }
-.entete{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: -10px;
+.carb{
+    text-align: center ;
+    margin-top: 280px;
+    margin-bottom: -250px;
+    margin-right: 100px;
    
 }
-.logo1{
-    background-color: #fff;
+.com{
+    text-align: end;
+    margin-top: 220px;
+    margin-right: 200px;
+    margin-bottom: -25px;
 }
-ul a{
-    position: relative;
+
+#car img{
+    float: left;
+    width: 600px;
+    height: 300px;
+    margin-right: 70px;
+    margin-top: 30px;
+}
+#p{
+    margin-left: 650px;
+    margin-bottom: 50px;
+    font-size: x-large;
+    background-color:rgb(239, 173, 16) ;
+    color: #ffffff;
+}
+#p h2{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+}
+#p h3{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
     
 }
-h1{
-   margin-left: 40%;
-   margin-top: -50%;
-   position: absolute;
-   color: darkgoldenrod;
+#images{
+display: inline-block;
+margin-right: 0px;
+margin-left: 0px;  
+background-color: blue; 
 }
-h2{
-    position:absolute;
+
+#chif h2{
+    text-align: center;
+
+}
+#chif h4{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+#chif p{
+    margin-left: 2px;
+    margin-top: 0px;
+}
+
+#images img{
+    margin-left: 35px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}   
+#chif h4{
+    margin-left: 260px;
+    display: inline-block;
+    font-size: larger;
+
+}
+#images2{
+background-color: rgb(239, 173, 16); 
+
+}
+#images2 img{
+    margin-left: 75px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+#images2 h2{
+   margin-left: 50px;
+  
+}
+#images2 h3{
+    text-align: center;
+    color: blue;
+    font-size: x-large; 
+    margin-bottom: 10px;
+    margin-top: 10px;     
+}
+#pied1{
+    background-color: black;
+    color: #ffffff;
+    margin-top: 300px;
+}
+#pied2{
+   text-align: center; 
+   margin-top: -115px;
+   color: #ffffff;
+}
+#pied3{
+    text-align: end;
+    margin-top: -115px;
+    color: #ffffff;
+}
+#pied1 hr {
+    border: solid;
+    margin-right: 90%;
+   
+}
+#pied2 hr{
+   border: solid;
+   margin-right: 42%;
+   margin-left: 42%;
+   
+}
+#pied2 img{
+    margin-right: 10%;
+    margin-top: 12px;
+}
+#pied3 hr{
+    border: solid;
+    margin-left: 80%;
+}
+#pied3 p {
+    color: #efad10;
+    margin-right: 20px;
+    
+}
+#svc{
+    background-color: #efad10;
+    
+}
+
+#svc1 h2{
+    color: blue;
+    margin-left: 20px;
+    font-size: 25px;
+    background-color: #efad10; 
+    margin-right: 80%;
+}
+#svc1 p{
+    margin-left: 10px;
+    font-size: 20px;
+   
+    color: #ffffff;
+}
+#svc2 h2{
+    font-size: 25px;
+    margin-top: -175px;
+    color: blue;  
+}
+#svc2 p{
+    font-size: 20px;
+    color: #ffffff;   
+}
+#svc2{
     margin-left: 40%;
-    margin-top: -35%;
-    color:#fff;
 }
-#continuer{
-    margin-left: 40%;
-    position: absolute;
-    background-color:  blue; 
-    border-radius: 15px;
-    height: 50px;
-    width: 150px;
-    margin-top: 44%;
+#svc3 h2{
+    font-size: 25px;
+    margin-right: 30px;
+    margin-top: -180px;
+    color: blue;  
 }
-.liste1{
-    background: white;
-    height: 60px;
-    margin-top: 15px;
-    margin-right: 23%;
-    width: 50%;
-    text-transform: uppercase;
+#svc3 p{
+    font-size: 20px; 
+    color: #ffffff;
+    margin-right: 30px;
 }
-#continue{
-    margin-left: 40%;
-    position: absolute;
-    background-color: gold; 
-    border-radius: 15px;
-    height: 50px;
-    width: 150px;
-    margin-top: -80px;
+#svc3{
+    margin-left: 85%;
+    margin-right: 30px;
+    
 }
-#logo2{
-    position: absolute;
+
+#debut h2{
+    margin-bottom: -0px;
+    font-size: 24px;
+    margin-left: 40px;
 }
-.liste2{
-    background: white;
-    position: absolute;
-    height: 60px;
-    margin-top:20px;
-    width: 50%;
-    text-transform: uppercase;
-    position: absolute;
-    margin-left: 25%;
+#fin h3{
+    text-align: end;
+    font-size: 24px;
+    margin-bottom: -0px;
+    margin-right: 40px;
 }
+#milieu h4{
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: -0px; 
+}
+#debut{
+    margin-left: 20px;
+    
+}
+#milieu{
+    margin-top: -265px;
+   
+}
+#fin{
+    margin-top: -265px;  
+    margin-right: 20px;
+}
+#escales{
+    font-size: 30px;
+    background-color: blue;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+table th{
+    background-color: blue;
+    font-size: 25px;
+    color: #ffffff;
+}
+table td{
+    background-color: #efad10;
+    font-size: 25px;   
+}
+#pa p{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -50px;
+    margin-left: 27%;
+    color: #efad10;
+    margin-right: 10%;
+}
+
