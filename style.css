@@ -1,190 +1,85 @@
-nav ul li{
-
-    display: inline-block;
-    background-color: rgb(182, 186, 63);
-    margin-right: 90px;
-    float: right;
-    margin-top: -30px;
-    width: 100%;
-    height: 60px;
-    font-size: 25px;
-    
-
-    
+body{
+    background-color:blue;
 }
-.accueil1{
-    margin-left: 800px;
-    margin-top: px;
-
-
-  }
-  
-.texte{
-    text-align: left;
-    margin-top: -500px;
-    width: 45%;
+.font{
+    height: 700px;
+    background: url('dossier nour/bus image.jpg') no-repeat;
+    background-size: cover;
+}
+li{
+     position: relative;
+     display: contents;
+     margin-top: -10%;
+    color: black;
+ }    
+a{
+    text-decoration: none;
+    padding-right: 40px;
    
+
+    
+}
+.entete{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -10px;
    
 }
-.nour{
-    width: 50%;
-  padding-top: 2%;
-  text-align: left;
-
- 
+.logo1{
+    background-color: #fff;
 }
-.grp0{
-    display: flex;
-}
-.pictures{
-    margin-top: 250px;
-    padding-top: -200px;
-    
-    display: flow-root;
-    width: 50%;
-    height: 50%;
-    margin-left:30px;
-}
-.pit2{
-    width: 45%;
-    margin-left: 45%;
-    padding: 
-    margin-top: -40%;
-}
-.bloc1{
-    color: white;
-    background-color: blue;
-   height: 40px;
-   padding: 20px;
-}
-.societe{
-    color: white;
-    background-color: rgb(245, 213, 8);
-    height: 40px;
-    padding: 30px;
-
-}
-.plane li{
-  
-  display: inline-block;
-margin: px;
-text-align: justify;
-font-size: 20px;
-justify-content: space-between;
-padding: 30px;
-margin-top: -30px;
-margin-left:100px;
-    
-}.bloc2{
-    color: white;
-    background-color: blue;
-   height: 40px;
-   margin-top: 90px; 
-   padding: 20px;
-}
-.ad{
-    text-align: center;
-    margin-top: 50%;
-}.piedpage{
-    display: flex;
-    color: white;
-    margin-top: 100%;
-    background-color: black;
-    width: 100%;
-    height: 500px;
-    
-
-    
+ul a{
+    position: relative;
     
 }
-
-.pied{
-    color: rgb(201, 181, 29);
-    width: 20%;
-    font-size: 25px;
-    margin: 50px;
+h1{
+   margin-left: 40%;
+   margin-top: -50%;
+   position: absolute;
+   color: darkgoldenrod;
 }
-.dr{
-    width: 20%;
-    font-size: 20px;
-    margin-left: 80%;
-}
-.act{
-    width: ;
-    font-size: 25px;
-    margin-left: 40%;
-    margin-top: 30px;
-    display: flex;
-
-}
-#pai{
-    font-size: 20px;
-    position: absolute;
-    margin-top: 30px;
-}
-#actu{
+h2{
     position:absolute;
-    margin-left:30%;
-    margin-top: 30px;
-    font-size: 20px;
+    margin-left: 40%;
+    margin-top: -35%;
+    color:#fff;
 }
-#conf{
+#continuer{
+    margin-left: 40%;
     position: absolute;
-    margin-left: 80%;
-    font-size: 20px;
-
+    background-color:  blue; 
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+    margin-top: 44%;
 }
-.pic{
-    position: absolute;
-}
-#tomb{
-    position: absolute;
-    width: 130px;
-    height: 112px;
-    left: 508px;
-    margin-top: 150px;
-}
-#mopt{
-    position: absolute;
-    width: 130px;
-    height: 112px;
-    left: 508px;
-    margin-top: 360px;
-
-}
-#axe{
-    position: relative;
-    margin-left: 660px;
-    margin-top: 20%;
-    color: #EFAD10;
-}#axe2{
-    position: relative;
-    margin-left: 660px;
-    margin-top: 210px;
-    color: #EFAD10;   
-}#oran{
-    position: absolute;
-    margin-top: 140px;
-}#condi{
-    
-    margin-left: 140% ;
-    color: #EFAD10;
-    margin-top:-40%;
-    position: relative;
+.liste1{
+    background: white;
+    height: 60px;
+    margin-top: 15px;
+    margin-right: 23%;
     width: 50%;
-    font-size: 20px;
+    text-transform: uppercase;
 }
-#cook{
-    margin-left: 140%;
+#continue{
+    margin-left: 40%;
+    position: absolute;
+    background-color: gold; 
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+    margin-top: -80px;
+}
+#logo2{
+    position: absolute;
+}
+.liste2{
+    background: white;
+    position: absolute;
+    height: 60px;
+    margin-top:20px;
     width: 50%;
-    color: #EFAD10;
-    font-size: 20px;
-
-}
-.jone{
-    width: 150%;
-    height: 150px;
-    background-color: #EFAD10;
-    margin-top: 30%;
-    padding: 20px;
+    text-transform: uppercase;
+    position: absolute;
+    margin-left: 25%;
 }
